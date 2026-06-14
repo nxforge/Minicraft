@@ -6,7 +6,7 @@ app = Ursina()
 
 window.fullscreen = True
 window.color = color.cyan
-window.title = "Minecraft"
+window.title = "Minicraft"
 window.always_on_top = True
 window.borderless = True
 window.position = [0, 0]
